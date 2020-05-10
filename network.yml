@@ -38,7 +38,12 @@ Parameters:
         Type: String
         Default: 10.0.3.0/24
 
-
+    InstanceType:
+        Description: 
+            "The EC2 instance type of general purpose"
+        Type: String
+        AllowedValues: [t2.medium, t3.small, t3.nano, t3.micro, t3.small, t3.medium, t3.large, t3.xlarge, t3.2xlarge]
+        
 Resources:
 
     VPC: 
