@@ -36,3 +36,4 @@ This is optional, but it would be nice to have a URL here with the Load Balancer
 If the student provides a URL to verify his work is running properly, it will be a page that says “it works! Udagram, Udacity”
 
 ### Demo video included
+
