@@ -17,7 +17,7 @@
 ./destroy.sh Udagram-app
 ```
 
-##The Basics
+## The Basics
 
 ### Parameters
 
