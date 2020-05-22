@@ -1,0 +1,30 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Udagram2020"
+    },
+    {
+        "ParameterKey": "VPCCIDR",
+        "ParameterValue": "10.0.0.0/16"
+    },
+    {
+        "ParameterKey": "PrivS1",
+        "ParameterValue": "10.0.2.0/24"
+    },
+    {
+        "ParameterKey": "PrivS2",
+        "ParameterValue": "10.0.3.0/24"
+    },
+    {
+        "ParameterKey": "PubS1",
+        "ParameterValue": "10.0.0.0/24"
+    },
+    {
+        "ParameterKey": "PubS2",
+        "ParameterValue": "10.0.1.0/24"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t3.small"
+    }
+]
